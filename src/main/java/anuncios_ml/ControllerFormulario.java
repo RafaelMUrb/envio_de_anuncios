@@ -18,5 +18,3 @@ public class ControllerFormulario {
         return new ModelAndView("productRegister");
     }
 }
-
-//teste
